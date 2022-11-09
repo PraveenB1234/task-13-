@@ -1,0 +1,221 @@
+@media (max-width:576px){
+.d-xs-none{
+	display:none !important;
+}
+
+
+.col-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-2{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-6{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-8{
+	width:66.77%;
+	padding:0 15px;
+}
+
+.col-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-10{
+	width:83.33%;
+	padding:0 15px;
+}
+
+.col-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+.col-12{
+	width:100%;
+	padding:0 15px;
+}
+.logo a{
+	font-size: 50px;
+}
+.list{
+	margin-bottom:50px;
+}
+  #cnt-button {
+	  margin: 22px 28px;
+  }
+}
+
+@media (min-width:768px){
+	.container{
+		width:767px;
+	}
+	.d-xs-none{
+	display:none !important;
+}
+.col-ip-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-ip-2{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-ip-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-ip-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-ip-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-ip-6{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-ip-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-ip-8{
+	width:66.77%;
+	padding:0 15px;
+}
+
+.col-ip-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-ip-10{
+	width:83.33%;
+	padding:0 15px;
+}
+
+.col-ip-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+.col-ip-12{
+	width:100%;
+	padding:0 15px;
+}
+.about-content{
+	text-align:center;
+}
+.list{
+	margin-bottom:30px;
+}
+.icon-content {
+	margin-top:136px;
+}
+}t
+
+@media (min-width:1200px){
+	.container{
+	       width:1170px;
+		   margin:0 auto;
+           padding:0 15px;
+}
+
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-lg-8{
+	width:66.77%;
+	padding:0 15px;
+}
+
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+}
+
